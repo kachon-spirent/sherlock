@@ -1,9 +1,12 @@
 # Ignore bundler config.
 /dashboard/.bundle
+/traffic_center/.bundle
 
 # Ignore all logfiles and tempfiles.
 /dashboard/log/*.log
 /dashboard/tmp
+/traffic_center/log/*.log
+/traffic_center/tmp
 
 # Ignore other unneeded files.
 doc/
