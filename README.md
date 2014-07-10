@@ -2,4 +2,4 @@ sherlock
 ========
 
 Development enviornment
-https://github.com/kachon-spirent/sherlock/wiki/Develop-environment
+https://github.com/kachon-spirent/sherlock/wiki/Development-environment
