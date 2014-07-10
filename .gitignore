@@ -1,0 +1,13 @@
+# Ignore bundler config.
+/dashboard/.bundle
+
+# Ignore all logfiles and tempfiles.
+/dashboard/log/*.log
+/dashboard/tmp
+
+# Ignore other unneeded files.
+doc/
+*.swp
+*~
+.project
+.idea
